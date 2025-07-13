@@ -7,4 +7,4 @@
 - Высокая скорость поиска
 - Низкая цена
 
-![NeuroStartUp Logo](https://camo.githubusercontent.com/48ec13dc717fdbf06c621ddcf84d738b40c7ba13c73c25d5fdf2f2b1f7a1d02e/68747470733a2f2f6e6575726f737461727475702e72752f7374617469632f696d672f6c6f676f2e706e67)
+![NeuroStartUp Logo](logo.png)
